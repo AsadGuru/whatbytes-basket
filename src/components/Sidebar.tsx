@@ -16,7 +16,7 @@ const Sidebar = () => {
       <div className="mb-4">
         <h3 className="font-medium">Category</h3>
         <div className="space-y-1 mt-1">
-          {['All', 'Electronics', 'Clothing', 'Home Appliances', 'Sports & Outdoors'].map(c => (
+          {['Electronics', 'Clothing', 'Home Appliances', 'Sports'].map(c => (
             <div key={c}>
               <input
                 type="radio"
@@ -36,7 +36,7 @@ const Sidebar = () => {
         <input
           type="range"
           min="0"
-          max="1300"
+          max="1000"
           value={price}
           onChange={e => setPrice(Number(e.target.value))}
           className="w-full"

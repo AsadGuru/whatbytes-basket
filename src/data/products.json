@@ -84,7 +84,7 @@
     "id": 10,
     "title": "Yoga Mat",
     "price": 290,
-    "category": "Sports & Outdoors",
+    "category": "Sports",
     "image": "/products/yoga-mat.png",
     "rating": 4,
     "description": "Non-slip yoga mat ideal for yoga, pilates, and other floor exercises."
@@ -92,7 +92,7 @@
   {
     "id": 11,
     "title": "Coffee Maker",
-    "price": 1290,
+    "price": 800,
     "category": "Home Appliances",
     "image": "/products/coffee-maker.png",
     "rating": 5,
@@ -102,7 +102,7 @@
     "id": 12,
     "title": "Football",
     "price": 300,
-    "category": "Sports & Outdoors",
+    "category": "Sports",
     "image": "/products/football.png",
     "rating": 4,
     "description": "Durable football designed for recreational and professional play."
