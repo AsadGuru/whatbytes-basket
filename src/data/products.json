@@ -1,0 +1,110 @@
+[
+  {
+    "id": 1,
+    "title": "Running Shoes",
+    "price": 139,
+    "category": "Clothing",
+    "image": "/products/shoes.png",
+    "rating": 4,
+    "description": "Lightweight and comfortable running shoes designed for performance and style."
+  },
+  {
+    "id": 2,
+    "title": "Wireless Headphones",
+    "price": 199,
+    "category": "Electronics",
+    "image": "/products/headphones.png",
+    "rating": 5,
+    "description": "Noise-cancelling wireless headphones for immersive audio experiences."
+  },
+  {
+    "id": 3,
+    "title": "Backpack",
+    "price": 129,
+    "category": "Clothing",
+    "image": "/products/backpack.png",
+    "rating": 4,
+    "description": "Spacious and stylish backpack suitable for daily use and travel."
+  },
+  {
+    "id": 4,
+    "title": "Smartwatch",
+    "price": 249,
+    "category": "Electronics",
+    "image": "/products/smartwatch.png",
+    "rating": 4,
+    "description": "Track your health and notifications with a sleek smartwatch."
+  },
+  {
+    "id": 5,
+    "title": "Sunglasses",
+    "price": 149,
+    "category": "Clothing",
+    "image": "/products/sunglass.png",
+    "rating": 3,
+    "description": "UV-protected stylish sunglasses for both men and women."
+  },
+  {
+    "id": 6,
+    "title": "Smartphone",
+    "price": 699,
+    "category": "Electronics",
+    "image": "/products/smartphone.png",
+    "rating": 5,
+    "description": "Flagship smartphone with AMOLED display, 5G connectivity, and advanced camera features."
+  },
+  {
+    "id": 7,
+    "title": "Laptop",
+    "price": 999,
+    "category": "Electronics",
+    "image": "/products/laptop.png",
+    "rating": 5,
+    "description": "High-performance laptop suitable for work, study, and entertainment."
+  },
+  {
+    "id": 8,
+    "title": "Smart Thermostat",
+    "price": 199,
+    "category": "Home Appliances",
+    "image": "/products/thermostat.png",
+    "rating": 4,
+    "description": "Energy-efficient smart thermostat for convenient home temperature control."
+  },
+  {
+    "id": 9,
+    "title": "Electric Kettle",
+    "price": 491,
+    "category": "Home Appliances",
+    "image": "/products/kettle.png",
+    "rating": 4,
+    "description": "Fast-boiling electric kettle with automatic shut-off and sleek design."
+  },
+  {
+    "id": 10,
+    "title": "Yoga Mat",
+    "price": 290,
+    "category": "Sports & Outdoors",
+    "image": "/products/yoga-mat.png",
+    "rating": 4,
+    "description": "Non-slip yoga mat ideal for yoga, pilates, and other floor exercises."
+  },
+  {
+    "id": 11,
+    "title": "Coffee Maker",
+    "price": 1290,
+    "category": "Home Appliances",
+    "image": "/products/coffee-maker.png",
+    "rating": 5,
+    "description": "Automatic coffee maker for brewing rich and flavorful coffee at home."
+  },
+  {
+    "id": 12,
+    "title": "Football",
+    "price": 300,
+    "category": "Sports & Outdoors",
+    "image": "/products/football.png",
+    "rating": 4,
+    "description": "Durable football designed for recreational and professional play."
+  }
+]
